@@ -1,0 +1,6 @@
+[submodule "Projet-Environnement-Front"]
+	path = Projet-Environnement-Front
+	url = https://github.com/Div-divine/Projet-Environnement-Front.git
+[submodule "Projet-Environnement-Back"]
+	path = Projet-Environnement-Back
+	url = https://github.com/Div-divine/Projet-Environnement-Back.git
